@@ -7,3 +7,4 @@ The purpose of this app was to learn the basics of Apples Metal graphics API, as
 - The basics of the rendering loop, and the basics of the Metal rendering pipeleine
 
 ## Result
+![](Examples/Triangle.png)
